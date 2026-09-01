@@ -14,3 +14,12 @@
 
 ### Connect
 [![GitHub](https://img.shields.io/badge/GitHub-aemzed-181717?style=for-the-badge&logo=github)](https://github.com/aemzed)
+
+### GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aemzed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aemzed&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aemzed&theme=tokyonight&hide_border=true" />
+</p>
