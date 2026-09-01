@@ -23,6 +23,22 @@
 
 ---
 
+### 💼 Work Highlights
+
+*Enterprise/client systems — internal, no public repo*
+
+| Project | Stack | Context |
+|---|---|---|
+| **APBS Reborn** | ASP.NET Core 8 | Rebuilt legacy vessel-permit system, integrated with TPS, PTOS-M/PK, PKK, TTL — Pelindo |
+| **Super Depo System** | .NET Framework | Container flow management in/out of port depots — Pelindo |
+| **IHUB Integration Platform** | ASP.NET Core 3 | JSON-to-JSON gateway between internal systems and SAP — Pelindo |
+| **Income Financial Application** | Fullstack (Node.js) | Corporate lending workflow — submission, approval, reporting — Pelindo |
+| **Wooblazz CRM App** | Flutter | Sales team performance & attendance tracking — Tunas Kreasi Digital |
+| **POS System for Quipster** | Java Android + Node.js | Sales, stock & reporting for a startup POS product — Tunas Kreasi Digital |
+| **Container Monitoring System** | PHP Native + SAP integration | Real-time container status for depot operations — Indra Jaya Swastika |
+
+---
+
 ### 🛠️ Skills
 ![](https://skillicons.dev/icons?i=js,ts,php,java,cs,dart,nodejs,express,laravel,react,flutter,dotnet,postgres,mysql,oracle,docker,aws,linux,git)
 
