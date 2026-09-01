@@ -9,13 +9,31 @@
 - 📫 Reach me at **adityazunaidi115@gmail.com**
 - 👨‍💻 All of my public projects: [aemzed.github.io](https://aemzed.github.io)
 
-### Skills
+---
+
+### 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [**crm_frontend**](https://github.com/aemzed/crm_frontend) | CRM web app frontend — React + Vite |
+| [**crm_backend**](https://github.com/aemzed/crm_backend) | CRM backend API — Node.js |
+| [**clipboard_adityazunaidi**](https://github.com/aemzed/clipboard_adityazunaidi) | macOS clipboard manager — SwiftUI |
+| **mobile_pos** | Point-of-sale mobile app — Flutter *(private repo)* |
+| [**aemzed.github.io**](https://aemzed.github.io) | Personal portfolio site |
+
+---
+
+### 🛠️ Skills
 ![](https://skillicons.dev/icons?i=js,ts,php,java,cs,dart,nodejs,express,laravel,react,flutter,dotnet,postgres,mysql,oracle,docker,aws,linux,git)
 
-### Connect
+---
+
+### 🔗 Connect
 [![GitHub](https://img.shields.io/badge/GitHub-aemzed-181717?style=for-the-badge&logo=github)](https://github.com/aemzed)
 
-### GitHub Stats
+---
+
+### 📊 GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=aemzed&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=aemzed&layout=compact&theme=tokyonight&hide_border=true" />
