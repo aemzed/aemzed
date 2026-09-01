@@ -5,6 +5,7 @@
 
 - 🔭 I'm currently working on **APBS Reborn** — rebuilding a legacy vessel-permit system on ASP.NET Core 8, integrated with TPS, PTOS-M/PK, PKK & TTL (internal port system, no public repo)
 - 🌱 I'm currently sharpening **React, Node.js & SQL** (HackerRank certified, 2025–2026)
+- 👯 Collaborating on [**Zona Kasir Mobile**](https://github.com/users/mrafiisaansori/projects/1/views/1) — POS mobile app board
 - 💬 Ask me about **backend architecture, legacy-to-modern system integration (SAP/XML/JSON), Flutter & ASP.NET Core**
 - 📫 Reach me at **adityazunaidi115@gmail.com**
 - 👨‍💻 All of my public projects: [aemzed.github.io](https://aemzed.github.io)
@@ -18,7 +19,7 @@
 | [**crm_frontend**](https://github.com/aemzed/crm_frontend) | CRM web app frontend — React + Vite |
 | [**crm_backend**](https://github.com/aemzed/crm_backend) | CRM backend API — Node.js |
 | [**clipboard_adityazunaidi**](https://github.com/aemzed/clipboard_adityazunaidi) | macOS clipboard manager — SwiftUI |
-| **mobile_pos** | Point-of-sale mobile app — Flutter *(private repo)* |
+| [**zkmobile**](https://github.com/mrafiisaansori/zkmobile) | Zona Kasir Mobile — POS mobile app, Flutter *(as collaborator)* |
 | [**aemzed.github.io**](https://aemzed.github.io) | Personal portfolio site |
 
 ---
